@@ -1,0 +1,51 @@
+TCU ∇2
+Arkansas ∇2
+Maryland ∇2
+Southern California ∇2
+Tennessee ∇1
+Creighton ∇1
+Kentucky ∇1
+Boise State ∇1
+Iowa ∇1
+Nevada ∇1
+Iowa State Δ3
+Texas A&M Δ2
+DUKE Δ2
+Missouri Δ2
+Northwestern Δ2
+TEXAS Δ1
+Utah State Δ1
+Michigan State Δ1
+West Virginia Δ1
+Auburn Δ1
+FURMAN Δ1
+MONTANA STATE Δ1
+UNC ASHEVILLE Δ1
+Oregon +
+Oklahoma State +
+Penn State +
+North Texas +
+DRAKE +
+LOUISIANA +
+UC SANTA BARBARA +
+GRAND CANYON +
+PRINCETON +
+KENNESAW STATE +
+NORTHERN KENTUCKY +
+HOWARD +
+SOUTHEAST MISSOURI STATE +
+TEXAS SOUTHERN +
+Providence -
+Mississippi State -
+North Carolina -
+Arizona State -
+SAM HOUSTON STATE -
+LIBERTY -
+BRADLEY -
+MARSHALL -
+YALE -
+UC IRVINE -
+YOUNGSTOWN STATE -
+NORFOLK STATE -
+GRAMBLING -
+MOREHEAD STATE -

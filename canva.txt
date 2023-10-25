@@ -1,0 +1,113 @@
+SOUTH 11
+Penn State +
+NC State
+
+WEST 11
+Nevada ∇1
+North Texas +
+
+MIDWEST 16
+HOWARD +
+TEXAS SOUTHERN +
+
+EAST 16
+SOUTHEAST MISSOURI STATE +
+FAIRLEIGH DICKINSON
+
+******
+HOUSTON
+First Four
+
+Maryland ∇2
+Memphis
+
+Virginia
+DRAKE +
+
+Kansas State
+KENT STATE
+
+Iowa State Δ3
+Oregon +
+
+Connecticut
+PRINCETON +
+
+TCU ∇2
+Rutgers
+
+ARIZONA
+COLGATE
+******
+Kansas
+NORTHERN KENTUCKY +
+
+Boise State ∇1
+Northwestern Δ2
+
+Indiana
+VIRGINIA COMMONWEALTH
+
+Saint Mary's (CA)
+FURMAN Δ1
+
+Utah State Δ1
+First Four
+
+Baylor
+UC SANTA BARBARA +
+
+West Virginia Δ1
+Southern California ∇2
+
+PURDUE
+UNC ASHEVILLE Δ1
+******
+ALABAMA
+First Four
+
+FLORIDA ATLANTIC
+Auburn Δ1
+
+Texas A&M Δ2
+COLLEGE OF CHARLESTON
+
+SAN DIEGO STATE
+IONA
+
+Miami (FL)
+Oklahoma State +
+
+MARQUETTE
+MONTANA STATE Δ1
+
+Kentucky ∇1
+Iowa ∇1
+
+GONZAGA
+KENNESAW STATE +
+******
+UCLA
+TEXAS A&M-CORPUS CHRISTI
+
+Arkansas ∇2
+Missouri Δ2
+
+DUKE Δ2
+ORAL ROBERTS
+
+Xavier
+LOUISIANA +
+
+Creighton ∇1
+First Four
+
+Tennessee ∇1
+GRAND CANYON +
+
+Michigan State Δ1
+Illinois
+
+TEXAS Δ1
+VERMONT
+******

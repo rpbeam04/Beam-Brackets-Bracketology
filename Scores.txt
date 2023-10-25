@@ -1,0 +1,4 @@
+Gonzaga,62.7,Kentucky,60.8
+Auburn,50.1,Houston,54.6
+Gonzaga,62.1,Auburn,59.8
+Gonzaga,55.7,Houston,58.0
